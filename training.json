@@ -8,3 +8,5 @@
 "input": "明天去自修室上课",
 "output": "{\"event_name\":\"自修室上课\",\"start_time\":\"2026-05-11 14:57:06.137187\",\"location\":\"自修室\",\"description\":\"明天去自修室上课\"}"},
 {'instruction': '2026-05-10 Sun', 'input': '下周二去植物园做志愿服务', 'output': '{"event_name": "下周二去植物园做志愿服务", "start_time": "2026-05-12 15:05:55", "location": "植物园", "description": "下周二去植物园做志愿服务"}'},
+{'instruction': '2026-05-10 Sun', 'input': '下周三晚上7点去星河广场', 'output': '{"event_name": "去星河广场", "start_time": "2026-05-13 15:12:34", "location": "星河广场", "description": "下周三晚上7点去星河广场"}'},
+{'instruction': '2026-05-10 Sun', 'input': '明天去自修8室上课', 'output': '{"event_name": "自修8室上课", "start_time": "2026-05-11 15:15:12.049305", "location": "自修8室", "description": "明天去自修8室上课"}'},
